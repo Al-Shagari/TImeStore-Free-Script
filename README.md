@@ -1,4 +1,4 @@
-# TImeStore-Free-Script
+# TimeStore-Free-Script
 When you change your hair from the phone it will tell you in the console your "Changed the color of your hair !"
 
 
