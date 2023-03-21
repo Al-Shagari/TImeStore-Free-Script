@@ -6,15 +6,14 @@ When you change your hair from the phone it will tell you in the console your "C
 In linux type " git clone https://github.com/Al-Shagari/TImeStore-Free-Script "
 
 
-In windows "Press Code < install zip" 
+In windows "Press Code < Download zip" 
 
 
 
 #The Script 
 
-It is open source script
-
-The script is for teaching people how to code there first script
+it is command script that when u type "/gun" it will give you gun 
+you can change it from the config
 
 
 
