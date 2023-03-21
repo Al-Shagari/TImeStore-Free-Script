@@ -3,7 +3,8 @@ When you change your hair from the phone it will tell you in the console your "C
 
 
 #To install it
-In linux type " git clone https://github.com/Al-Shagari/TImeStore-Free-Script "
+
+In linux " git clone https://github.com/Al-Shagari/TImeStore-Free-Script "
 
 
 In windows "Press Code < Download zip" 
